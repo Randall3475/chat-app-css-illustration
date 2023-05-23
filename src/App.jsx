@@ -142,7 +142,7 @@ const Main = styled.main`
     width: 510px;
     height: 1018px;
     left: 1115px;
-    top: 218px;
+    top: 318px;
     background: linear-gradient(225deg, #E844FF 0%, #8739FF 100%);
     mix-blend-mode: normal;
     opacity: 0.03;

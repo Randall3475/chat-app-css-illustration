@@ -195,7 +195,7 @@ const Phone = styled.div`
   background: #FFFFFF;
   padding-inline: 9.5px;
   padding-block: 11px;
-  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));  
+  box-shadow: 0px 30px 60px -10px #3E275340;  
   border-radius: 30px;
   position: relative;
   display: flex;

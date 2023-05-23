@@ -187,6 +187,7 @@ const PhoneTextContainer = styled.section`
     margin-top: 64px;
     row-gap: 64px;
     padding-inline: 32px;
+    margin-left: 0;
   }
 `;
 const Phone = styled.div`

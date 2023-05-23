@@ -356,7 +356,7 @@ const SenderText = styled.p`
   color: #6E5D7E;
 `;
 const DonationBox = styled.div`
-  background: linear-gradient(225deg, #E844FF 0%, #8739FF 100%);
+  background: linear-gradient(225deg, rgb(135, 57, 255) 0%, rgb(232, 68, 255) 100%);
   box-shadow: 0px 10px 5px -5px rgba(62, 39, 83, 0.045318);
   border-radius: 10px 10px 10px 4px;
   padding-top: 11px;
